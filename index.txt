@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>6SecondMarket</title>
+    <link rel="stylesheet" href="app.css" />
+  </head>
+
+  <body>
+   <aside class="profile-card">
+  <header>
+    <!-- here’s the avatar -->
+    <a target="_blank" href="#">
+      <img src="http://lorempixel.com/150/150/people/" class="hoverZoomLink">
+    </a>
+
+    <!-- the username -->
+    <h1>
+            Muhammad Febrian Syusada Nst
+          </h1>
+
+    <!-- and role or location -->
+    <h2>
+            21.11.3912
+          </h2>
+
+  </header>
+
+  <!-- bit of a bio; who are you? -->
+  <div class="profile-bio">
+
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, cum. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis exercitationem sapiente officiis. Quibusdam quam temporibus cupiditate, culpa eveniet dolor dolore.
+    </p>
+
+  </div>
+
+  <!-- some social links to show off -->
+  <ul class="profile-social-links">
+    <li>
+      <a target="_blank" href="https://www.facebook.com/creativedonut">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+    <li>
+      <a target="_blank" href="https://twitter.com/dropyourbass">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a target="_blank" href="https://github.com/vipulsaxena">
+        <i class="fa fa-github"></i>
+      </a>
+    </li>
+    <li>
+      <a target="_blank" href="https://www.behance.net/vipulsaxena">
+       
+        <i class="fa fa-behance"></i>
+      </a>
+    </li>
+  </ul>
+</aside>
+  </body>
+</html>
